@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class StudentManagementApplication {
 
 	public static void main(String[] args) {
-//
+// aaaa
 		SpringApplication.run(StudentManagementApplication.class, args);
 	}
  @GetMapping("/hello")
